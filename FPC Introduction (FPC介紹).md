@@ -162,7 +162,7 @@ EX:
 
 ```
 
-## 特性檢查
+### 特性檢查
 目的: N1材料製作完成後,需對各種材料依照材料用途做不同的物性與化性分析,將結果紀錄成績書中,
 依材料檢查基準書判定,合格者即投入產線生產  
 
@@ -201,5 +201,37 @@ EX:
             XRF確認材料中溴及氯之含量(定量)
 ![image](https://user-images.githubusercontent.com/79491888/177457654-00ef04d1-e053-4615-b8ae-cd5dd41bf180.png)
 
+## 線路工程
+![image](https://user-images.githubusercontent.com/79491888/177459828-31523c0b-ff3d-4ecf-a691-29c4858ab262.png)
+
+### 前處理
+
+Chemical reaction:  
+1.clean the surface.  
+2.surface roughness increasing  
+3.increasing the adhesion with photo resist.  
+
+化學反應：  
+1.清潔表面。  
+2.表面粗糙度增加  
+3.增加與光刻膠的附著力。  
+![image](https://user-images.githubusercontent.com/79491888/177460683-8d30fa4d-f91d-42da-8ece-511ada168a00.png)
+
+製造條件管理:
+```
+前處理鹽酸液濃度,溫度,噴壓控制
+```
+
+品質管理:
+```
+確認銅材表面與背面
+```
+
+確認項目:
+```
+1.打痕,變色,異物,水滴殘留
+2.捲取不平整
+3.折痕
+```
 
 
