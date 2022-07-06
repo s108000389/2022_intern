@@ -158,9 +158,9 @@ EX:
 5.接著強度
 6.無鹵值測試(依材料不同測試項目亦不同)
 ```
-1.外觀:確認PI面有無發泡或異物及其他表面不良  
+- 1.外觀:確認PI面有無發泡或異物及其他表面不良  
 
-2.蝕刻吋法:  
+- 2.蝕刻吋法:  
 ![image](https://user-images.githubusercontent.com/79491888/177454095-509c185a-ef54-4fee-8ee0-90f072023b15.png)
 
 ```
@@ -168,11 +168,20 @@ EX:
    蝕刻後測量：再以二次元座標儀循上列順序量測。
 ```
 收縮率計算公式： ![image](https://user-images.githubusercontent.com/79491888/177453836-467eec89-af2e-40cf-986e-4084dc6ff771.png)
-\ 
+ 
 
-3.使用測厚機測量厚度，分別測量sample製品左中右厚度  
-![image](https://user-images.githubusercontent.com/79491888/177454323-5b72aaf6-4df2-416a-bcbb-14ca707fb577.png)
+- 3.使用測厚機測量厚度，分別測量sample製品左中右厚度  
+![image](https://user-images.githubusercontent.com/79491888/177454323-5b72aaf6-4df2-416a-bcbb-14ca707fb577.png)  
 
+- 4.半田耐熱:依段取指示書上規定之溫度測試是否材料遇高溫會發泡
+![image](https://user-images.githubusercontent.com/79491888/177454862-ec67723f-6240-4615-839d-6b882c25c7ed.png)
+![image](https://user-images.githubusercontent.com/79491888/177455181-33d40d2a-d453-471a-82f2-e7adc556c5ec.png)
+
+- 5.接著劑強度:將製品MD [15cm]×CMD[1cm] ,剝起銅箔約 2cm長度(90° 剝引)。
+![image](https://user-images.githubusercontent.com/79491888/177456835-25b1b9c2-57d3-44d1-aa8e-77971352cbf7.png)
+
+- 6.無鹵測試:X-ray螢光光譜儀,分析成分(定性)
+            XRF確認材料中溴及氯之含量(定量)
 
 
 
