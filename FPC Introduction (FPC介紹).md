@@ -80,7 +80,7 @@ Ex:
 
 ### 壓合  
 製造管理項目 : CoR 溫度,ImR壓力,壓合張力  
-EX:
+EX:  
 ![image](https://user-images.githubusercontent.com/79491888/177449059-3fc2bc07-d321-4885-9e65-b2848e9efa11.png)
 
 壓合偏移與外觀確認:
