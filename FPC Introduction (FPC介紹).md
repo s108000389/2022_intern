@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/79491888/177441041-d2cce058-2a26-4e65-acaf-57422a3142d0.png)
+![image](https://user-images.githubusercontent.com/79491888/177441041-d2cce058-2a26-4e65-acaf-57422a3142d0.png)  
 - [塗佈工程](#塗佈工程)
   - [1.接著劑配置](#接著劑配置)
   - [2.塗佈](#塗佈)
@@ -17,8 +17,6 @@
   - [6.剝離](#剝離)
   - [7.VGP,假本接著](#VGP,假本接著)
 
-test
-<h2>test</h2>
 
 ## 塗佈工程
 ![image](https://user-images.githubusercontent.com/79491888/177457334-3272e299-0c8e-4340-b4d9-30b993657850.png)
