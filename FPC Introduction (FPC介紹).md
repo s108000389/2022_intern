@@ -70,7 +70,7 @@ Coating
 ### 乾燥  
 製造管理項目: 溫度 ,張力  
 Ex: 
-![image](https://user-images.githubusercontent.com/79491888/177448472-bd5cb067-12f2-45f5-bb2f-4c1f7c7e2bd5.png)
+![image](https://user-images.githubusercontent.com/79491888/177448472-bd5cb067-12f2-45f5-bb2f-4c1f7c7e2bd5.png)  
 乾燥部異發生之異常:
 ```
 若材料之接著劑溢出或材料細屑殘留於乾燥部
@@ -81,7 +81,7 @@ Ex:
 ### 壓合  
 製造管理項目 : CoR 溫度,ImR壓力,壓合張力  
 EX:  
-![image](https://user-images.githubusercontent.com/79491888/177449059-3fc2bc07-d321-4885-9e65-b2848e9efa11.png)
+![image](https://user-images.githubusercontent.com/79491888/177449059-3fc2bc07-d321-4885-9e65-b2848e9efa11.png)  
 
 壓合偏移與外觀確認:
 
@@ -89,7 +89,7 @@ EX:
 品質確認:  
 壓合後厚度確認(PI+AD+CU):
 量取A,B,C三點厚度依材料式樣書判定  
-![image](https://user-images.githubusercontent.com/79491888/177449348-78365ae7-1e03-486f-846e-63bb647d1b4c.png)
+![image](https://user-images.githubusercontent.com/79491888/177449348-78365ae7-1e03-486f-846e-63bb647d1b4c.png)  
 
 壓合偏移與外觀確認:  
 ![image](https://user-images.githubusercontent.com/79491888/177449459-c3aa7d40-4809-4d00-9730-c7c0f635299e.png)  
@@ -117,7 +117,7 @@ EX:
 ```
 
 EX:
-![image](https://user-images.githubusercontent.com/79491888/177450538-0bebf526-2d03-4121-a94b-703c76e818bd.png)
+![image](https://user-images.githubusercontent.com/79491888/177450538-0bebf526-2d03-4121-a94b-703c76e818bd.png)  
 
 管理項目:由於此處為製畢之材料,需特別注意材料品質,
           以防流出至下一工程。項目如下
@@ -144,7 +144,7 @@ EX:
 ,折痕,凸管 
 ```
 ### 裁切  
-![image](https://user-images.githubusercontent.com/79491888/177451632-71dd3cf5-b5b7-4fa2-9898-24b675f6e3f0.png)
+![image](https://user-images.githubusercontent.com/79491888/177451632-71dd3cf5-b5b7-4fa2-9898-24b675f6e3f0.png)  
 
 製造條件管理項目:
 ```
@@ -158,7 +158,7 @@ EX:
 ```
 1.需確認裁切寬幅與外觀不良:
 ```
-![image](https://user-images.githubusercontent.com/79491888/177451883-16e0f2e7-246d-4c77-bea4-3c9157917405.png)
+![image](https://user-images.githubusercontent.com/79491888/177451883-16e0f2e7-246d-4c77-bea4-3c9157917405.png)  
 ```
 2.裁斷工程所造成之 打痕,折痕,傷痕,污損,異物附著,裁斷偏移,未裁斷,毛邊銅粉殘留 
 
@@ -180,13 +180,13 @@ EX:
 - 1.外觀:確認PI面有無發泡或異物及其他表面不良  
 
 - 2.蝕刻吋法:  
-![image](https://user-images.githubusercontent.com/79491888/177454095-509c185a-ef54-4fee-8ee0-90f072023b15.png)
+![image](https://user-images.githubusercontent.com/79491888/177454095-509c185a-ef54-4fee-8ee0-90f072023b15.png)  
 
 ```
    蝕刻前測量：以二次元座標儀量測CMD及MD方向距離。
    蝕刻後測量：再以二次元座標儀循上列順序量測。
 ```
-收縮率計算公式： ![image](https://user-images.githubusercontent.com/79491888/177453836-467eec89-af2e-40cf-986e-4084dc6ff771.png)
+收縮率計算公式： ![image](https://user-images.githubusercontent.com/79491888/177453836-467eec89-af2e-40cf-986e-4084dc6ff771.png)  
  
 
 - 3.使用測厚機測量厚度，分別測量sample製品左中右厚度  
