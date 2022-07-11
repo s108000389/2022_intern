@@ -133,8 +133,9 @@ EX:
 依各品目皆有熟化之昇溫曲線(熟化條件)
 ,熟化溫度與熟化時間(材料製造式樣書)
 ```
-各條件之昇華取線
-![image](https://user-images.githubusercontent.com/79491888/177451138-ee4ba7de-9d54-49bc-b969-de5a79bbaa10.png)
+各條件之昇華取線  
+
+<img src="https://user-images.githubusercontent.com/79491888/177451138-ee4ba7de-9d54-49bc-b969-de5a79bbaa10.png" width="300px">
 
 品質確認:
 ```
