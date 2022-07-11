@@ -103,7 +103,8 @@ EX:
 ```
 
 ### 捲取  
-![image](https://user-images.githubusercontent.com/79491888/177450493-349b1520-9fcc-44a5-af01-712a9219b48f.png)
+
+<img src="https://user-images.githubusercontent.com/79491888/177450493-349b1520-9fcc-44a5-af01-712a9219b48f.png" width="300px">
 
 目的: 
 ```
