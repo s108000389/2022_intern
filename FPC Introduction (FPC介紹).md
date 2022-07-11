@@ -202,7 +202,7 @@ EX:
 - 6.無鹵測試:X-ray螢光光譜儀,分析成分(定性)
             XRF確認材料中溴及氯之含量(定量)  
 
-<img src="(https://user-images.githubusercontent.com/79491888/177457654-00ef04d1-e053-4615-b8ae-cd5dd41bf180.png" width="500px">
+<img src="https://user-images.githubusercontent.com/79491888/177457654-00ef04d1-e053-4615-b8ae-cd5dd41bf180.png" width="500px">
 
 ## 線路工程
 ![image](https://user-images.githubusercontent.com/79491888/177459828-31523c0b-ff3d-4ecf-a691-29c4858ab262.png)
