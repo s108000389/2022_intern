@@ -192,7 +192,7 @@ EX:
 - 3.使用測厚機測量厚度，分別測量sample製品左中右厚度  
 ![image](https://user-images.githubusercontent.com/79491888/177454323-5b72aaf6-4df2-416a-bcbb-14ca707fb577.png)  
 
-- 4.半田耐熱:依段取指示書上規定之溫度測試是否材料遇高溫會發泡
+- 4.半田耐熱:依段取指示書上規定之溫度測試是否材料遇高溫會發泡  
 ![image](https://user-images.githubusercontent.com/79491888/177454862-ec67723f-6240-4615-839d-6b882c25c7ed.png)
 ![image](https://user-images.githubusercontent.com/79491888/177455181-33d40d2a-d453-471a-82f2-e7adc556c5ec.png)
 
