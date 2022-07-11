@@ -88,10 +88,10 @@ EX:
 
 品質確認:  
 壓合後厚度確認(PI+AD+CU):
-量取A,B,C三點厚度依材料式樣書判定
+量取A,B,C三點厚度依材料式樣書判定  
 ![image](https://user-images.githubusercontent.com/79491888/177449348-78365ae7-1e03-486f-846e-63bb647d1b4c.png)
 
-壓合偏移與外觀確認:
+壓合偏移與外觀確認:  
 ![image](https://user-images.githubusercontent.com/79491888/177449459-c3aa7d40-4809-4d00-9730-c7c0f635299e.png)
 判定基準:
 ```
