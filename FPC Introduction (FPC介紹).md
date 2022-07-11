@@ -196,11 +196,11 @@ EX:
 ![image](https://user-images.githubusercontent.com/79491888/177454862-ec67723f-6240-4615-839d-6b882c25c7ed.png)
 ![image](https://user-images.githubusercontent.com/79491888/177455181-33d40d2a-d453-471a-82f2-e7adc556c5ec.png)
 
-- 5.接著劑強度:將製品MD [15cm]×CMD[1cm] ,剝起銅箔約 2cm長度(90° 剝引)。
+- 5.接著劑強度:將製品MD [15cm]×CMD[1cm] ,剝起銅箔約 2cm長度(90° 剝引)。  
 ![image](https://user-images.githubusercontent.com/79491888/177456835-25b1b9c2-57d3-44d1-aa8e-77971352cbf7.png)
 
 - 6.無鹵測試:X-ray螢光光譜儀,分析成分(定性)
-            XRF確認材料中溴及氯之含量(定量)
+            XRF確認材料中溴及氯之含量(定量)  
 ![image](https://user-images.githubusercontent.com/79491888/177457654-00ef04d1-e053-4615-b8ae-cd5dd41bf180.png)
 
 ## 線路工程
