@@ -300,7 +300,7 @@ Chemical reaction:
   3.缺口,斷線,銅殘,短路,蝕刻文字不清,標記短缺,打折痕
   ```
 
-  - 露光量決定線寬: 露光量高線寬粗;露光量低線寬細Focus會影響線路profile:
+  - 露光量決定線寬: 露光量高線寬粗;露光量低線寬細Focus會影響線路profile:  
   ![image](https://user-images.githubusercontent.com/79491888/178400307-e64c9656-ed37-4be9-96b5-417078e2d2bd.png)
   ![image](https://user-images.githubusercontent.com/79491888/178400355-2f0f6bef-c90a-4b84-90a8-ea579ca38345.png)  
 
