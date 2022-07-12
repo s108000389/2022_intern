@@ -332,5 +332,20 @@ Chemical reaction:
   ![image](https://user-images.githubusercontent.com/79491888/178401249-eee12a0b-eaf1-454d-9e88-f4668426b52e.png)  
   ![image](https://user-images.githubusercontent.com/79491888/178401322-4a242f2d-3242-4bab-b1ab-26d6ed8b0bdc.png)  
   
+  製造條件管理項目:
+  ```
+  1.蝕刻液濃度
+  2.溫度
+  3.噴壓
+  4.噴嘴擺動回數
+  5.依銅材厚度決定line速度
+  ```
+  
+  品質確認項目:
+  ```
+  1.線寬:依照製造式樣書線路寬幅判定
+  2.缺口,斷線,銅殘,短路判定異常
+  3.外觀:打折痕、異物、變色、水滴殘留、 乾膜殘留
+  ```
 
 
