@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/79491888/177441041-d2cce058-2a26-4e65-acaf-57422a3142d0.png)  
+![image](https://user-images.githubusercontent.com/79491888/178421821-6935ad67-ba02-44c6-adfc-67759d434121.png)  
+
 - [塗佈工程](#塗佈工程)
   - [1.接著劑配置](#接著劑配置)
   - [2.塗佈](#塗佈)
