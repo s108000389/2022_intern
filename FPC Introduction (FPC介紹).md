@@ -612,7 +612,8 @@ Chemical reaction:
 
 
 ## OQC
+  OQC	Outgoing Quality Control 	出貨品質管控  
   ![image](https://user-images.githubusercontent.com/79491888/178418383-397bedea-e5e8-4dfb-a39e-3cb0f8e1e09d.png)  
   
-  OQC	Outgoing Quality Control 	出貨品質管控  
+  
   
