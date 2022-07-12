@@ -39,6 +39,7 @@
   - [電測](#電測)
   - [外形](#外形)
 
+- [OQC](#OQC)
 
 ## 塗佈工程
 ![image](https://user-images.githubusercontent.com/79491888/177457334-3272e299-0c8e-4340-b4d9-30b993657850.png)
@@ -610,4 +611,7 @@ Chemical reaction:
   ![image](https://user-images.githubusercontent.com/79491888/178417804-c259ee1a-6226-40b0-80e7-c7f9d39e452d.png)  
 
 
+## OQC
+  ![image](https://user-images.githubusercontent.com/79491888/178418383-397bedea-e5e8-4dfb-a39e-3cb0f8e1e09d.png)  
   
+
