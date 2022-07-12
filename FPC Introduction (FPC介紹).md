@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/79491888/178421821-6935ad67-ba02-44c6-adfc-67759d434121.png)  
+![image](https://user-images.githubusercontent.com/79491888/178422017-6203a2d6-83ea-4b79-848c-bf1533d1015b.png)  
 
 - [塗佈工程](#塗佈工程)
   - [1.接著劑配置](#接著劑配置)
@@ -43,7 +43,8 @@
 - [OQC](#OQC)
 
 ## 塗佈工程
-![image](https://user-images.githubusercontent.com/79491888/177457334-3272e299-0c8e-4340-b4d9-30b993657850.png)
+![image](https://user-images.githubusercontent.com/79491888/178421914-1f7ec440-dd03-4e2b-8df6-02b95bf6889e.png)  
+
 
 ### 接著劑配置  
 製造條件:
