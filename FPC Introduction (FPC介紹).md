@@ -348,4 +348,9 @@ Chemical reaction:
   3.外觀:打折痕、異物、變色、水滴殘留、 乾膜殘留
   ```
 
-
+### 剝離
+  NaOH removed the exposed PR with high pressure water spary.  
+  用高壓NaOH去除PR  
+  ![image](https://user-images.githubusercontent.com/79491888/178401949-f604a61a-991a-449a-b12d-d101dc057970.png)  
+  
+  
