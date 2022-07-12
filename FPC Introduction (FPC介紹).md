@@ -352,5 +352,19 @@ Chemical reaction:
   NaOH removed the exposed PR with high pressure water spary.  
   用高壓NaOH去除PR  
   ![image](https://user-images.githubusercontent.com/79491888/178401949-f604a61a-991a-449a-b12d-d101dc057970.png)  
+  ![image](https://user-images.githubusercontent.com/79491888/178402157-99a2fc8e-63c8-4e13-bc3f-9c138f99c9aa.png)  
   
+  製造條件管理項目:
+  ```
+  1.NaOH濃度
+  2.溫度
+  3.噴壓
+  4.噴嘴擺動回數
+  5.line速度
+  ```
+  
+  品質確認項目:
+  ```
+  乾膜剝離異常,水滴殘留,打折痕,以放大鏡判斷
+  ```
   
