@@ -483,7 +483,7 @@ Chemical reaction:
   6.製造式樣確認:line 速度, 電流值,槽數  
   7.使用寬電刷(接觸面積大,效率高)  
   
-  ![image](https://user-images.githubusercontent.com/79491888/178406928-02aed348-eac5-44d9-9873-bd90ef69191a.png)
+  ![image](https://user-images.githubusercontent.com/79491888/178406928-02aed348-eac5-44d9-9873-bd90ef69191a.png)  
 
 
   
