@@ -529,6 +529,8 @@ Chemical reaction:
   2.線路電氣測試  
   3.各補材貼合  
 
+  ![image](https://user-images.githubusercontent.com/79491888/178414050-be7effff-0a78-479a-a110-b1e02a12571d.png)  
+
 
 
 
