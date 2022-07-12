@@ -325,18 +325,12 @@ Chemical reaction:
   ```
   顯像不完全,顯像過度,剝離,缺墨,變色打折痕
   ```
-
-
-
-
-
- 
-
-
-
-
-
   
+### 蝕刻
+  HCl : etching the non-PR area  
+  HCl : 蝕刻非 PR 區域  
+  ![image](https://user-images.githubusercontent.com/79491888/178401249-eee12a0b-eaf1-454d-9e88-f4668426b52e.png)  
+  ![image](https://user-images.githubusercontent.com/79491888/178401322-4a242f2d-3242-4bab-b1ab-26d6ed8b0bdc.png)  
   
 
 
