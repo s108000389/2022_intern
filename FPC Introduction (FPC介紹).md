@@ -303,7 +303,7 @@ Chemical reaction:
   - 露光量決定線寬: 露光量高線寬粗;露光量低線寬細Focus會影響線路profile:  
   ![image](https://user-images.githubusercontent.com/79491888/178400307-e64c9656-ed37-4be9-96b5-417078e2d2bd.png)  
   ![image](https://user-images.githubusercontent.com/79491888/178400355-2f0f6bef-c90a-4b84-90a8-ea579ca38345.png)  
-  過度曝光:線寬寬幅過大(銅殘)
+  過度曝光:線寬寬幅過大(銅殘)  
   曝光量不夠:線寬寬幅不夠(缺口)
 
 
