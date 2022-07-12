@@ -276,6 +276,12 @@ Chemical reaction:
   5.銅箔捲出,離形紙捲取,製品捲取之張力
   ```
 
+### 曝光
+  Purpose: Using UV light & PR reaction to define the pattern.
+  目的：使用紫外光和 PR 反應來定義圖案。  
+  <img src="https://user-images.githubusercontent.com/79491888/178398974-32e6f928-99e9-4750-b68a-36a75a8f1b35.png
+" width="600px">
+
   
   
 
