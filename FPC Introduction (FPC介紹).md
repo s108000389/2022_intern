@@ -266,6 +266,8 @@ Chemical reaction:
   如果同樣厚度的乾膜用較低的曝光能量,理論上可以獲得較好的解像度,但是它仍然需要達到能量的下限,
   否則感光膜的強度不足,就會造成製程的問題
   ```
+  ![image](https://user-images.githubusercontent.com/79491888/178398034-76523a4e-9573-4bbe-b28d-017d792caeea.png)
+
   
   
 
