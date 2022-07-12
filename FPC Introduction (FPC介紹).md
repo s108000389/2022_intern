@@ -301,8 +301,11 @@ Chemical reaction:
   ```
 
   - 露光量決定線寬: 露光量高線寬粗;露光量低線寬細Focus會影響線路profile:
-  <img src="https://user-images.githubusercontent.com/79491888/178400106-d2f9532b-4b36-4697-a6b8-e16a14e86655.png" width="600px">  
-  ![image](https://user-images.githubusercontent.com/79491888/178400210-dde982a5-037b-4383-8501-ba5726ffa946.png)
+  ![image](https://user-images.githubusercontent.com/79491888/178400307-e64c9656-ed37-4be9-96b5-417078e2d2bd.png)
+  ![image](https://user-images.githubusercontent.com/79491888/178400355-2f0f6bef-c90a-4b84-90a8-ea579ca38345.png)  
+
+
+ 
 
 
 
