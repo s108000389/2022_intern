@@ -605,3 +605,9 @@ Chemical reaction:
   2.依終檢手順書所規定項目檢查
   ```
 
+#### 穴拔 > 電測 > 外形
+  N4工程大致上來說有三個UNIT,穴拔、電測、外形；其排列組合如下,並分析各排列組合之可行性  
+  ![image](https://user-images.githubusercontent.com/79491888/178417804-c259ee1a-6226-40b0-80e7-c7f9d39e452d.png)  
+
+
+  
