@@ -279,8 +279,8 @@ Chemical reaction:
 ### 曝光
   Purpose: Using UV light & PR reaction to define the pattern.
   目的：使用紫外光和 PR 反應來定義圖案。  
-  <img src="https://user-images.githubusercontent.com/79491888/178398974-32e6f928-99e9-4750-b68a-36a75a8f1b35.png
-" width="600px">
+  <img src="https://user-images.githubusercontent.com/79491888/178399056-a52ec030-054d-47bf-9f43-32653887b049.png" width="600px">
+
 
   
   
