@@ -524,6 +524,12 @@ Chemical reaction:
    ![image](https://user-images.githubusercontent.com/79491888/178413236-03bb8d1f-83bb-42b0-83f6-1c9f6c638a59.png)  
 
 
+## 後工程
+  1.依照製品出貨方式對外形作加工(台南廠目前出貨方式:低黏著出貨,微連結出貨,單pcs)  
+  2.線路電氣測試  
+  3.各補材貼合  
+
+
 
 
   
