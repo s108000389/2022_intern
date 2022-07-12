@@ -237,7 +237,6 @@ Chemical reaction:
 1.清潔表面。  
 2.表面粗糙度增加  
 3.增加與光刻膠的附著力。  
-![image](https://user-images.githubusercontent.com/79491888/177460683-8d30fa4d-f91d-42da-8ece-511ada168a00.png)
 <img src="https://user-images.githubusercontent.com/79491888/177460683-8d30fa4d-f91d-42da-8ece-511ada168a00.png" width="600px">
 
 
