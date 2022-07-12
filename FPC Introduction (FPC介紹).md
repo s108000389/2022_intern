@@ -258,14 +258,23 @@ Chemical reaction:
 ```
 
 ### 乾膜壓合
-  乾膜:a kind of photo resist, after exposing with UV can get the pattern we need.
+  乾膜:a kind of photo resist, after exposing with UV can get the pattern we need.  
   乾膜:一種光刻膠，用UV曝光後可以得到我們需要的圖案。
   ```
   同樣的乾膜理論上用同樣的曝光狀態作業,厚度愈低解析度愈高,當然所能做的線寬就愈小,
   如果同樣厚度的乾膜用較低的曝光能量,理論上可以獲得較好的解像度,但是它仍然需要達到能量的下限,
   否則感光膜的強度不足,就會造成製程的問題
   ```
-  <img src="https://user-images.githubusercontent.com/79491888/178398034-76523a4e-9573-4bbe-b28d-017d792caeea.png" width="600px">
+  <img src="https://user-images.githubusercontent.com/79491888/178398034-76523a4e-9573-4bbe-b28d-017d792caeea.png" width="600px">  
+  
+  製造條件管理項目:
+  ```
+  1.乾膜壓合壓力
+  2.預熱輪溫度
+  3.上滾輪,下滾輪溫度
+  4.速度
+  5.銅箔捲出,離形紙捲取,製品捲取之張力
+  ```
 
   
   
