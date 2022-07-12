@@ -444,4 +444,7 @@ Chemical reaction:
       優點:方便加工之自動化,可使用連續電鍍,所經電鍍條件相同,故產品品質一致,且節省人力  
       缺點:製程可變性小  
 
+   ![image](https://user-images.githubusercontent.com/79491888/178405416-35841fff-1821-4090-88f0-f9e60fc1a0ef.png)  
+   
+
   
