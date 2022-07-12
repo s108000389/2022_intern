@@ -306,6 +306,27 @@ Chemical reaction:
   過度曝光:線寬寬幅過大(銅殘)  
   曝光量不夠:線寬寬幅不夠(缺口)
 
+### 顯影
+  Remove the non-reacted PR, in etching process,residual PR used for protecting specific pattern in etching process.  
+  去除未反應的 PR，在蝕刻過程中，殘留 PR 用於保護蝕刻過程中的特定圖案。  
+  ![image](https://user-images.githubusercontent.com/79491888/178400854-39f7bced-f624-47cc-97d7-bfd563566380.png)  
+  
+  製造條件管理項目:
+  ```
+  1.濃度
+  2.PH值
+  3.溫度
+  4.噴壓
+  5.噴嘴擺動回數
+  6.line速度
+  ```
+  
+  品質管理項目:
+  ```
+  顯像不完全,顯像過度,剝離,缺墨,變色打折痕
+  ```
+
+
 
 
 
