@@ -280,7 +280,25 @@ Chemical reaction:
   Purpose: Using UV light & PR reaction to define the pattern.
   目的：使用紫外光和 PR 反應來定義圖案。  
   <img src="https://user-images.githubusercontent.com/79491888/178399056-a52ec030-054d-47bf-9f43-32653887b049.png" width="600px">  
-  ![image](https://user-images.githubusercontent.com/79491888/178399402-2b5eceef-f984-4492-8043-a5260c20516c.png)
+  ![image](https://user-images.githubusercontent.com/79491888/178399402-2b5eceef-f984-4492-8043-a5260c20516c.png)  
+  
+  製造管理:
+  ```
+  1.曝光段秒數,燈泡life time
+    (每週一測段數再搭配設定秒數決定曝光量,段數range±0.5)
+  2.曝光間隙
+  3.收料後以黑色塑膠袋包覆
+  4.底片life time&週期碼(每週送回高雄修改,
+    依時間區隔製品)
+  5.無塵室潔淨度,溫溼度,壓差管理
+  ```
+  
+  品質確認:
+  ```
+  1.段取pilot 檢查
+  2.露光偏移(對焦品目):整張製品之QE確認孔
+  3.缺口,斷線,銅殘,短路,蝕刻文字不清,標記短缺,打折痕
+  ```
 
 
 
