@@ -459,4 +459,6 @@ Chemical reaction:
   - 廠內脫脂劑:橘酸(弱酸),160S(鹼),PAC-200(酸)  
   - 製造條件確認:脫脂槽溫度,比重(Be’),毛刷設定高度
 
+  ![image](https://user-images.githubusercontent.com/79491888/178405982-2d14496c-52a6-486e-8197-2a388e2ae28f.png)  
+
   
