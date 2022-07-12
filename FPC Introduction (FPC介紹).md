@@ -513,6 +513,17 @@ Chemical reaction:
     製造條件確認:藥液濃度,溫度  
     製造式樣確認:line速度,電流值,槽數  
     使用短電刷(由製品兩側將負電荷導入,以防止鍍鎳層刮傷)  
+    
+    ![image](https://user-images.githubusercontent.com/79491888/178412923-cfad5529-534d-4ea4-9c29-07ca57bb2ec5.png)  
+
+  #### 鍍金
+    目的:預鍍金後,使用較高濃度之金鹽溶液,較低電流,將厚度沉積至所需之厚度  
+    製造條件確認:軟硬金所用之金鹽溶液,藥液濃度,溫度  
+    製造式樣確認:line速度,電流值,槽數,X-ray測厚(測厚點數,位置)  
+    
+    ![image](https://user-images.githubusercontent.com/79491888/178413236-03bb8d1f-83bb-42b0-83f6-1c9f6c638a59.png)  
+
+
 
 
   
