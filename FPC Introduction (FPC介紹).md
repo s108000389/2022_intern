@@ -396,6 +396,10 @@ Chemical reaction:
   避免銅箔直接與空氣接觸氧化或撓曲多次斷折，以達到製品絕緣及增加製品可撓性之目的。  
   廠內目前有手動與自動假接著兩種機型  
   ![image](https://user-images.githubusercontent.com/79491888/178403273-17075000-7b13-44ad-b8c5-fcc93850ef2a.png)  
+  
+  VACT vs. 手動貼合機  
+  ![image](https://user-images.githubusercontent.com/79491888/178647208-92d25d59-00f0-4934-9bb7-ba18a5148664.png)  
+
 
   製造條件管理:
   ```
