@@ -375,7 +375,7 @@ Chemical reaction:
   ```
   
 ## 假本接著
-  ![image](https://user-images.githubusercontent.com/79491888/178648731-ce41a65f-8014-4eb7-ac7e-6c5e3eaff8b9.png)  
+  
   <img src="https://user-images.githubusercontent.com/79491888/178648731-ce41a65f-8014-4eb7-ac7e-6c5e3eaff8b9.png" width="600px">  
 
 ### VGP
