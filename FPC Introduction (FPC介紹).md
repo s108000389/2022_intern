@@ -400,7 +400,6 @@ Chemical reaction:
   ![image](https://user-images.githubusercontent.com/79491888/178403273-17075000-7b13-44ad-b8c5-fcc93850ef2a.png)  
   
   VACT vs. 手動貼合機  
-  ![image](https://user-images.githubusercontent.com/79491888/178649535-3eb132f6-df25-4ad2-a91a-b826c07d4571.png)  
   <img src="https://user-images.githubusercontent.com/79491888/178649535-3eb132f6-df25-4ad2-a91a-b826c07d4571.png" width="600px">  
 
 
