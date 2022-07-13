@@ -434,7 +434,9 @@ Chemical reaction:
   氣泡,變色,接著劑溢出,附著物,打折痕
   ```
   
-### 熟化
+### 烘箱熟化
+  保膠材料及接著劑需經烘箱加溫處理，使接著劑完全產生反應及達到乾燥固化之需求。
+
 
 ## 電鍍工程
   ![image](https://user-images.githubusercontent.com/79491888/178404224-a6e531ff-25a0-482d-8e55-f69bf5439b64.png)  
