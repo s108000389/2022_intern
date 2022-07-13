@@ -400,7 +400,7 @@ Chemical reaction:
   ![image](https://user-images.githubusercontent.com/79491888/178403273-17075000-7b13-44ad-b8c5-fcc93850ef2a.png)  
   
   VACT vs. 手動貼合機  
-  ![image](https://user-images.githubusercontent.com/79491888/178647208-92d25d59-00f0-4934-9bb7-ba18a5148664.png)  
+  ![image](https://user-images.githubusercontent.com/79491888/178649535-3eb132f6-df25-4ad2-a91a-b826c07d4571.png)  
 
 
   製造條件管理:
