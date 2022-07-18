@@ -29,5 +29,17 @@ newv = .;
 - 輸出語句
   - put
 ```
+data;
 
+x=0.5;
+
+y=sin(x);
+
+put 'sine function value of ' x 'is ' y;
+
+run;
+```
+顯示結果
+```
+sine function value of 0.5 is 0.4794255386
 ```
