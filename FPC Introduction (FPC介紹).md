@@ -558,9 +558,12 @@ Chemical reaction:
 
 
 ## 後工程
+- 會先貼barcode(條碼)方便後續NG標記及資料上傳
+  
   1.依照製品出貨方式對外形作加工(台南廠目前出貨方式:低黏著出貨,微連結出貨,單pcs)  
   2.線路電氣測試  
   3.各補材貼合  
+  
 
   ![image](https://user-images.githubusercontent.com/79491888/178414050-be7effff-0a78-479a-a110-b1e02a12571d.png)  
 
