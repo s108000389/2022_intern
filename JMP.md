@@ -2,6 +2,7 @@
 [JSL入門：從數據收集到分析自動化](https://www.jmp.com/zh_tw/events/ondemand/non-series/jsl-introduction/watch.html#formsuccess)  
 
 - if else
+
 if((條件式)
   
   :     # : 為else
