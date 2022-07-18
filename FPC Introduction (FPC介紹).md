@@ -266,6 +266,7 @@ Chemical reaction:
 ```
 
 ### 乾膜壓合
+  #### 乾膜壓合 : DF
   乾膜:a kind of photo resist, after exposing with UV can get the pattern we need.  
   乾膜:一種光刻膠，用UV曝光後可以得到我們需要的圖案。
   ```
