@@ -39,7 +39,15 @@ put 'sine function value of ' x 'is ' y;
 
 run;
 ```
-顯示結果
+顯示結果  
 ```
 sine function value of 0.5 is 0.4794255386
+```
+      - 顯示帶有變數名的輸出結果
+```
+put x= y=;
+```
+顯示結果  
+```
+x=0.5 y=0.4794255386
 ```
