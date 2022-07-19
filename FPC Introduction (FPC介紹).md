@@ -275,7 +275,7 @@ Chemical reaction:
   否則感光膜的強度不足,就會造成製程的問題
   ```
   乾膜有分乾、濕  
-  <img src="https://user-images.githubusercontent.com/79491888/179695211-827af41a-18ca-440c-8d32-1097656142b7.png" width="500px">  
+  <img src="https://user-images.githubusercontent.com/79491888/179695211-827af41a-18ca-440c-8d32-1097656142b7.png" width="650px">  
   ![image](https://user-images.githubusercontent.com/79491888/179695211-827af41a-18ca-440c-8d32-1097656142b7.png)  
 
   
