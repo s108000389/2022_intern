@@ -276,7 +276,6 @@ Chemical reaction:
   ```
   乾膜有分乾、濕  
   <img src="https://user-images.githubusercontent.com/79491888/179695211-827af41a-18ca-440c-8d32-1097656142b7.png" width="650px">  
-  ![image](https://user-images.githubusercontent.com/79491888/179695211-827af41a-18ca-440c-8d32-1097656142b7.png)  
 
   
   <img src="https://user-images.githubusercontent.com/79491888/178398034-76523a4e-9573-4bbe-b28d-017d792caeea.png" width="600px">  
