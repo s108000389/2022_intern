@@ -440,7 +440,7 @@ Chemical reaction:
   ```
   氣泡,變色,接著劑溢出,附著物,打折痕
   ```
-  #### TPX:TPX離型膠片:抑制接著劑溢出
+  #### TPX:TPX離型膠片，抑制接著劑溢出
   <img src="https://user-images.githubusercontent.com/79491888/181658680-ef578228-037f-4a3a-a837-68a4c3df3bca.png" width="500px">
 
 ### 烘箱熟化
