@@ -441,6 +441,8 @@ Chemical reaction:
   氣泡,變色,接著劑溢出,附著物,打折痕
   ```
   #### TPX:TPX離型膠片:抑制接著劑溢出
+  ![image](https://user-images.githubusercontent.com/79491888/181658680-ef578228-037f-4a3a-a837-68a4c3df3bca.png)
+
 ### 烘箱熟化
   保膠材料及接著劑需經烘箱加溫處理，使接著劑完全產生反應及達到乾燥固化之需求。  
   
