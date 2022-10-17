@@ -1,7 +1,7 @@
 [FPC Introduction0821.pdf](https://github.com/s108000389/20222_intern/files/9451331/FPC.Introduction0821.pdf)  
 
 ![image](https://user-images.githubusercontent.com/79491888/178422017-6203a2d6-83ea-4b79-848c-bf1533d1015b.png)  
-**銅電在塗佈後線路前**
+## **銅電在塗佈後線路前**
 
 - [塗佈工程](#塗佈工程)
   - [1.接著劑配置](#接著劑配置)
