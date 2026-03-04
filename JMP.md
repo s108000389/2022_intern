@@ -20,8 +20,10 @@ if ((x >= 0),
 ```
 
 ## 單因子分析
+用以判斷因子的顯著性指標
+<br>
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/69053994-681d-458f-833e-f3bce5c7bc3d" />
-<img width="575"  alt="image" src="https://github.com/user-attachments/assets/c996a9d1-82d9-4fe1-828c-e7a901c3ccff" />  
+<img width="575"  alt="image" src="https://github.com/user-attachments/assets/c996a9d1-82d9-4fe1-828c-e7a901c3ccff" /><br>
 <img height="348" alt="image" src="https://github.com/user-attachments/assets/540f3b70-b8ad-4edc-bb8e-e1933d4b9889" />
 
 
