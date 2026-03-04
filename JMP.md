@@ -20,5 +20,5 @@ if ((x >= 0),
 ```
 
 ## 單因子分析
-<img width="1050" height="709" alt="image" src="https://github.com/user-attachments/assets/69053994-681d-458f-833e-f3bce5c7bc3d" />
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/69053994-681d-458f-833e-f3bce5c7bc3d" />
 
