@@ -21,6 +21,12 @@ if ((x >= 0),
 
 ## 單因子分析
 用以判斷因子的顯著性指標
+```
+兩個圓如果分開表示因子存在顯著關聯
+
+P < 0.05：至少有2組之間的平均值顯著不同
+P ≥ 0.05：各組平均值沒有顯著差異
+```
 <br>
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/69053994-681d-458f-833e-f3bce5c7bc3d" />
 <img width="575"  alt="image" src="https://github.com/user-attachments/assets/c996a9d1-82d9-4fe1-828c-e7a901c3ccff" /><br>
